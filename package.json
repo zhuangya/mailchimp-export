@@ -13,6 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "q": "~0.9.7",
-    "superagent": "~0.15.7"
+    "superagent": "~2.0.0"
   }
 }

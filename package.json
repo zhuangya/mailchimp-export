@@ -12,7 +12,7 @@
   "author": "Ya Zhuang <zhuangya@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "q": "~0.9.7",
-    "superagent": "~0.15.7"
+    "q": "~1.5.1",
+    "superagent": "~5.1.0"
   }
 }
